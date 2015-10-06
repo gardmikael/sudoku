@@ -1,0 +1,2 @@
+C:\Users\Thomas\AppData\Local\Temporary Projects\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
